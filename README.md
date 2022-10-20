@@ -1,1 +1,1 @@
-# lottery-system-solidity
+# solidity smart contracts
